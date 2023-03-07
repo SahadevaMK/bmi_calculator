@@ -145,7 +145,7 @@ class _InputPageState extends State<InputPage> {
             height: bottomContainerHeight,
             child: Center(
               child: Text(
-                'BMI Calculator',
+                'BMI ',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   fontSize: 25,
